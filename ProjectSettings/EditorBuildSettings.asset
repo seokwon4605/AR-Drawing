@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AR Painting/Scenes/Main.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/AR Painting/Scenes/Painting.unity
+    guid: 3e05c4f4d73c01b42a3b2311621f2767
+  - enabled: 1
+    path: Assets/AR Painting/Scenes/Gallery.unity
+    guid: 6b7a5d43c8b100a4593985b2b4e9bc86
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 683f97ced38ec734e87321ad8c3bd21d,
+      type: 2}

@@ -1,0 +1,956 @@
+fileFormatVersion: 2
+guid: 040079573f849d14da2dbd8410259de5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 986095502510898491
+    second: "\u2014Pngtree\u2014vector buttons_619002_0"
+  - first:
+      213: -2153179370397806613
+    second: "\u2014Pngtree\u2014vector buttons_619002_1"
+  - first:
+      213: 4460832824097534098
+    second: "\u2014Pngtree\u2014vector buttons_619002_2"
+  - first:
+      213: 4570610562110634367
+    second: "\u2014Pngtree\u2014vector buttons_619002_3"
+  - first:
+      213: 1958892135906819732
+    second: "\u2014Pngtree\u2014vector buttons_619002_4"
+  - first:
+      213: -4629740320919611183
+    second: "\u2014Pngtree\u2014vector buttons_619002_5"
+  - first:
+      213: -5501184765692343732
+    second: "\u2014Pngtree\u2014vector buttons_619002_6"
+  - first:
+      213: -3897282512307628522
+    second: "\u2014Pngtree\u2014vector buttons_619002_7"
+  - first:
+      213: -2037792487569276398
+    second: "\u2014Pngtree\u2014vector buttons_619002_8"
+  - first:
+      213: 4853234197557371729
+    second: "\u2014Pngtree\u2014vector buttons_619002_9"
+  - first:
+      213: 6908846782941326510
+    second: "\u2014Pngtree\u2014vector buttons_619002_10"
+  - first:
+      213: -1567711079624526217
+    second: "\u2014Pngtree\u2014vector buttons_619002_11"
+  - first:
+      213: -1539314419754871946
+    second: "\u2014Pngtree\u2014vector buttons_619002_12"
+  - first:
+      213: 3109111218094414203
+    second: "\u2014Pngtree\u2014vector buttons_619002_13"
+  - first:
+      213: 352927846202816514
+    second: "\u2014Pngtree\u2014vector buttons_619002_14"
+  - first:
+      213: 3568989996258997992
+    second: "\u2014Pngtree\u2014vector buttons_619002_15"
+  - first:
+      213: 6647228771666508519
+    second: "\u2014Pngtree\u2014vector buttons_619002_16"
+  - first:
+      213: -7969827939579391694
+    second: "\u2014Pngtree\u2014vector buttons_619002_17"
+  - first:
+      213: 7955561944394938861
+    second: "\u2014Pngtree\u2014vector buttons_619002_18"
+  - first:
+      213: -938799002218838943
+    second: "\u2014Pngtree\u2014vector buttons_619002_19"
+  - first:
+      213: 8720481802718430415
+    second: "\u2014Pngtree\u2014vector buttons_619002_20"
+  - first:
+      213: 3029529230262307957
+    second: "\u2014Pngtree\u2014vector buttons_619002_21"
+  - first:
+      213: 4657561116149760992
+    second: "\u2014Pngtree\u2014vector buttons_619002_22"
+  - first:
+      213: 7589767071373941632
+    second: "\u2014Pngtree\u2014vector buttons_619002_23"
+  - first:
+      213: 5312292445617409779
+    second: "\u2014Pngtree\u2014vector buttons_619002_24"
+  - first:
+      213: -2110615350366612143
+    second: "\u2014Pngtree\u2014vector buttons_619002_25"
+  - first:
+      213: 5342160104504185485
+    second: "\u2014Pngtree\u2014vector buttons_619002_26"
+  - first:
+      213: -1490201034495871306
+    second: "\u2014Pngtree\u2014vector buttons_619002_27"
+  - first:
+      213: 787856634201712803
+    second: "\u2014Pngtree\u2014vector buttons_619002_28"
+  - first:
+      213: -1509064124723077238
+    second: "\u2014Pngtree\u2014vector buttons_619002_29"
+  - first:
+      213: -1028294623742002318
+    second: "\u2014Pngtree\u2014vector buttons_619002_30"
+  - first:
+      213: 8853344063617324376
+    second: "\u2014Pngtree\u2014vector buttons_619002_31"
+  - first:
+      213: -1399601067632382144
+    second: "\u2014Pngtree\u2014vector buttons_619002_32"
+  - first:
+      213: -4516696110308123499
+    second: "\u2014Pngtree\u2014vector buttons_619002_33"
+  - first:
+      213: -3517636099399153023
+    second: "\u2014Pngtree\u2014vector buttons_619002_34"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_0"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 853
+        width: 336
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3db5cd82a05fad00800000000000000
+      internalID: 986095502510898491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_1"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 849
+        width: 374
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef4db945ce5e12e0800000000000000
+      internalID: -2153179370397806613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_2"
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 843
+        width: 345
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2907cbaa1df08ed30800000000000000
+      internalID: 4460832824097534098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_3"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 737
+        width: 336
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79b04117121e6f30800000000000000
+      internalID: 4570610562110634367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_4"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 736
+        width: 374
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e380ad4026f2b10800000000000000
+      internalID: 1958892135906819732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_5"
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 737
+        width: 345
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8984125bbdfbfb0800000000000000
+      internalID: -4629740320919611183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_6"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 621
+        width: 336
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a0e152a9dd7a3b0800000000000000
+      internalID: -5501184765692343732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_7"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 589
+        width: 374
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616df8824321ae9c0800000000000000
+      internalID: -3897282512307628522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_8"
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 616
+        width: 345
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212497c778e48b3e0800000000000000
+      internalID: -2037792487569276398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_9"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 517
+        width: 336
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1536f250ac62a5340800000000000000
+      internalID: 4853234197557371729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_10"
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 417
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac61d06b8721ef50800000000000000
+      internalID: 6908846782941326510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_11"
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 430
+        width: 125
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7763984441f5e3ae0800000000000000
+      internalID: -1567711079624526217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_12"
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 519
+        width: 353
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673dfdcd0b143aae0800000000000000
+      internalID: -1539314419754871946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_13"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 408
+        width: 353
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7913b91e28c52b20800000000000000
+      internalID: 3109111218094414203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_14"
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 409
+        width: 353
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2083348910ad5e400800000000000000
+      internalID: 352927846202816514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_15"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 298
+        width: 353
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6b0f50e79978130800000000000000
+      internalID: 3568989996258997992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_16"
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 284
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea30fb6953bf3c50800000000000000
+      internalID: 6647228771666508519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_17"
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 303
+        width: 125
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231136407bb756190800000000000000
+      internalID: -7969827939579391694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_18"
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 292
+        width: 353
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9b6442075d76e60800000000000000
+      internalID: 7955561944394938861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_19"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 47
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164414d0847b8f2f0800000000000000
+      internalID: -938799002218838943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_20"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 47
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc44a491fff550970800000000000000
+      internalID: 8720481802718430415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_21"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 47
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c8276a8cc0b0a20800000000000000
+      internalID: 3029529230262307957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_22"
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 40
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e347c7882bf2a040800000000000000
+      internalID: 4657561116149760992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_23"
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 47
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b533960f4445960800000000000000
+      internalID: 7589767071373941632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_24"
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 47
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe440465dd09b940800000000000000
+      internalID: 5312292445617409779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_25"
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 47
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15559e7758695b2e0800000000000000
+      internalID: -2110615350366612143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_26"
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 47
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d825c32af4a232a40800000000000000
+      internalID: 5342160104504185485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_27"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 40
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b634f6fd0eb15be0800000000000000
+      internalID: -1490201034495871306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_28"
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 47
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8278f3f670fea00800000000000000
+      internalID: 787856634201712803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_29"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 47
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f58968c2abe0be0800000000000000
+      internalID: -1509064124723077238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_30"
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 40
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bf963ec73cab1f0800000000000000
+      internalID: -1028294623742002318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_31"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 47
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8555932d4856dda70800000000000000
+      internalID: 8853344063617324376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_32"
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 47
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fa3809e3e939ce0800000000000000
+      internalID: -1399601067632382144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_33"
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 47
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c12b271d87151c0800000000000000
+      internalID: -4516696110308123499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector buttons_619002_34"
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 47
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a0936da98de2fc0800000000000000
+      internalID: -3517636099399153023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 42ab03c1ee58bbb449ecc8c51a63d688
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
